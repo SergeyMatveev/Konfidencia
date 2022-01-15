@@ -1,0 +1,2 @@
+rootProject.name = "Konfidencia_MVP"
+include ':app'
